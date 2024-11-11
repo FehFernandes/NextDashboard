@@ -9,3 +9,10 @@ Gerenciamento de Estado Eficiente: Utiliza hooks e contextos do React para uma g
 
 📚 Sobre o Curso
 Esse projeto que realizei é parte do curso de Roteamento de Aplicações com Next.js. Para mais informações e detalhes sobre como realizar o curso, visite o site oficial do Next.js.
+
+![Macbook-Air-1559x975](https://github.com/user-attachments/assets/cf1d1ca7-6ef2-4cef-bbc9-7149a30e134e)
+![Pixel-7-Pro-480x1040](https://github.com/user-attachments/assets/45700556-bd13-498e-bf4d-7f07204e59df)
+![Screenshot 2024-11-11 161912](https://github.com/user-attachments/assets/ffa33a58-c834-42af-afd3-de1fe1d5fafb)
+
+
+
